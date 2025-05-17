@@ -1,0 +1,8 @@
+cara pertama
+
+git init
+git add .
+git commit -m "pesan commit"
+git brach -m main
+git remot (name remote)
+git push origin main
